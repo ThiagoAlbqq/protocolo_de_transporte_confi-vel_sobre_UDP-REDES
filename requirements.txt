@@ -1,0 +1,5 @@
+# Dependências do trabalho (instale com: pip install -r requirements.txt)
+pytest>=7
+matplotlib>=3.5
+# opcional: gera texto "lorem ipsum" no generate_bogus_text.py
+lorem
